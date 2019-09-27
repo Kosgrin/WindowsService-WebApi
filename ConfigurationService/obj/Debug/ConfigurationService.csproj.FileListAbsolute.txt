@@ -1,0 +1,16 @@
+D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe.config
+D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.pdb
+D:\PC_Data_Collector\ConfigurationService\obj\Debug\ConfigurationService.ProjectInstaller.resources
+D:\PC_Data_Collector\ConfigurationService\obj\Debug\ConfigurationService.csproj.GenerateResource.cache
+D:\PC_Data_Collector\ConfigurationService\obj\Debug\ConfigurationService.csproj.CoreCompileInputs.cache
+D:\PC_Data_Collector\ConfigurationService\obj\Debug\ConfigurationService.exe
+D:\PC_Data_Collector\ConfigurationService\obj\Debug\ConfigurationService.pdb
+D:\PC_Data_Collector\ConfigurationService\bin\Debug\Newtonsoft.Json.dll
+D:\PC_Data_Collector\ConfigurationService\bin\Debug\Newtonsoft.Json.xml
+D:\PC_Data_Collector\ConfigurationService\obj\Debug\ConfigurationService.csproj.CopyComplete
+D:\PC_Data_Collector\ConfigurationService\obj\Debug\ConfigurationService.csprojAssemblyReference.cache
+D:\PC_Data_Collector\ConfigurationService\bin\Debug\System.Web.Http.dll
+D:\PC_Data_Collector\ConfigurationService\bin\Debug\System.Web.Http.WebHost.dll
+D:\PC_Data_Collector\ConfigurationService\bin\Debug\System.Net.Http.Formatting.dll
+D:\PC_Data_Collector\ConfigurationService\obj\Debug\ConfigurationService.exe.config

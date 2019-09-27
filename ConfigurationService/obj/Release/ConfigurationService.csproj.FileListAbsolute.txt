@@ -1,0 +1,12 @@
+D:\PC_Data_Collector\ConfigurationService\bin\Release\ConfigurationService.exe.config
+D:\PC_Data_Collector\ConfigurationService\bin\Release\ConfigurationService.exe
+D:\PC_Data_Collector\ConfigurationService\bin\Release\ConfigurationService.pdb
+D:\PC_Data_Collector\ConfigurationService\bin\Release\Newtonsoft.Json.dll
+D:\PC_Data_Collector\ConfigurationService\bin\Release\Newtonsoft.Json.xml
+D:\PC_Data_Collector\ConfigurationService\obj\Release\ConfigurationService.csprojAssemblyReference.cache
+D:\PC_Data_Collector\ConfigurationService\obj\Release\ConfigurationService.ProjectInstaller.resources
+D:\PC_Data_Collector\ConfigurationService\obj\Release\ConfigurationService.csproj.GenerateResource.cache
+D:\PC_Data_Collector\ConfigurationService\obj\Release\ConfigurationService.csproj.CoreCompileInputs.cache
+D:\PC_Data_Collector\ConfigurationService\obj\Release\ConfigurationService.csproj.CopyComplete
+D:\PC_Data_Collector\ConfigurationService\obj\Release\ConfigurationService.exe
+D:\PC_Data_Collector\ConfigurationService\obj\Release\ConfigurationService.pdb

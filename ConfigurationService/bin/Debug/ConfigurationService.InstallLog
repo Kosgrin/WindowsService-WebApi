@@ -1,0 +1,65 @@
+﻿Выполняется установка сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Устанавливается служба PC_Loger...
+Служба PC_Loger успешно установлена.
+Создается исходный EventLog PC_Loger в журнале Application...
+Выполняется фиксация сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Выполняется установка сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Устанавливается служба PC_Loger...
+Создается исходный EventLog PC_Loger в журнале Application...
+Выполняется откат для сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Восстанавливается исходное состояние журнала событий для источника PC_Loger.
+Выполняется установка сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Устанавливается служба PC_Loger...
+Создается исходный EventLog PC_Loger в журнале Application...
+Выполняется откат для сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Восстанавливается исходное состояние журнала событий для источника PC_Loger.
+Выполняется установка сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Устанавливается служба PC_Loger...
+Служба PC_Loger успешно установлена.
+Создается исходный EventLog PC_Loger в журнале Application...
+Выполняется фиксация сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Выполняется установка сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
+Устанавливается служба PC_Loger...
+Служба PC_Loger успешно установлена.
+Создается исходный EventLog PC_Loger в журнале Application...
+Выполняется фиксация сборки 'D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.InstallLog
+   assemblypath = D:\PC_Data_Collector\ConfigurationService\bin\Debug\ConfigurationService.exe
