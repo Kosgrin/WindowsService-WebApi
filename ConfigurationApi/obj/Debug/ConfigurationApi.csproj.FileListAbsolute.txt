@@ -86,3 +86,4 @@ D:\PC_Data_Collector\ConfigurationApi\bin\Antlr3.Runtime.pdb
 D:\PC_Data_Collector\ConfigurationApi\obj\Debug\ConfigurationApi.csproj.CopyComplete
 D:\PC_Data_Collector\ConfigurationApi\obj\Debug\ConfigurationApi.dll
 D:\PC_Data_Collector\ConfigurationApi\obj\Debug\ConfigurationApi.pdb
+D:\PC_Data_Collector\ConfigurationApi\obj\Debug\ConfigurationApi.csprojAssemblyReference.cache

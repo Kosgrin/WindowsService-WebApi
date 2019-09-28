@@ -12,6 +12,7 @@ using System.Timers;
 using System.Runtime.InteropServices;
 using System.Net.Http;
 using Newtonsoft.Json;
+using System.Net;
 
 namespace ConfigurationService
 {
@@ -124,8 +125,9 @@ namespace ConfigurationService
 
 				StringContent content = new StringContent(json, Encoding.UTF8, "text/json");
 				client.BaseAddress = new Uri("https://localhost:44367/");
-				//HTTP GET
-				var response = client.PostAsync("api/values", content);
+                ServicePointManager.ServerCertificateValidationCallback += (sender, certificate, chain, sslPolicyErrors) => certificate.Issuer == "CN=localhost";
+                //HTTP GET
+                var response = client.PostAsync("api/values", content);
 				//response.Wait();
 
 				var result = response.Result;
